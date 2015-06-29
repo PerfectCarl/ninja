@@ -21,27 +21,30 @@ Google AppEngine Support
  * https://github.com/ninjaframework/ninja-appengine
  
  
-Rythm templates
+Hazelcast Cache Implementation
+
+ * https://github.com/raptaml/ninja-hazelcast-embedded
+ 
+Templating
+----------
+
+[Rythm](http://rythmengine.org/) templates
 
  * https://github.com/ninjaframework/ninja-rythm
  
  
-Mustache templates
+[Mustache](http://mustache.github.io/) templates
 
  * https://github.com/kpacha/ninja-mustache
 
 
-Jade4Ninja (Jade) templates
+[Jade4Ninja (Jade)](https://github.com/neuland/jade4j) templates
 
  * https://github.com/mysu/jade4ninja
 
-Rocker templates
+[Rocker](https://github.com/fizzed/rocker) templates
 
  * https://github.com/fizzed/ninja-rocker
- 
-Hazelcast Cache Implementation
-
- * https://github.com/raptaml/ninja-hazelcast-embedded
 
 <div class="alert alert-info">
 Please feel free to add your modules to this page as pull request 
