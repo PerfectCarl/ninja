@@ -7,6 +7,7 @@ uses Freemarker as templating engine.
 If you want to know all advanced stuff you can do with Freemarker
 please check out their [excellent manual](http://freemarker.sourceforge.net/).
 
+> Note: Ninja supports a wide range of other templating engines via [modules](http://www.ninjaframework.org/documentation/modules.html#templating)
 
 Basic html templating
 ---------------------
